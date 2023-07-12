@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+.venv
+venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore cache and session files
+cache/
+session/
+
+
+.flaskenv
